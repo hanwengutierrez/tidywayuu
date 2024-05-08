@@ -2,18 +2,25 @@
 Challenge de 15 días de visualización de datos sobre pueblo indígena Wayuu. 
 
 
-# Antecedente 
+# Antecedente
 
 A través de la Sentencia T-302 de 2017, la Corte Constitucional declaró el Estado de Cosas Inconstitucionales frente a la protección especial de los derechos al **agua**, **salud** y **alimentación** para las comunidades indígenas **Wayuu** de los municipios de _Riohacha_, _Manaure_, _Uribia_ y _Maicao_ del Departamento de La Guajira.
 
-Este challenge busca que la comunidad colombiana se conscientice más de las situacines precarias de las comunidadedes indígenas **Wayuu** por medio de análisis y gráficas que surjan del [Censo Nacional de Población y Vivienda 2018](https://www.dane.gov.co/index.php/estadisticas-por-tema/demografia-y-poblacion/censo-nacional-de-poblacion-y-vivenda-2018) de Colombia. Lo anterior, con el fin de que contribiyamos todos con las iniciativas del gobierno de XXXXXX , registro multidimensional de Wayuu, blablabla. 
+Este challenge busca que la comunidad colombiana se conscientice más de las situacines precarias de las comunidadedes indígenas **Wayuu** por medio de análisis y gráficas que surjan del [Censo Nacional de Población y Vivienda 2018](https://www.dane.gov.co/index.php/estadisticas-por-tema/demografia-y-poblacion/censo-nacional-de-poblacion-y-vivenda-2018) de Colombia. Lo anterior, con el fin de que contribiyamos todos con las iniciativas del Estado colombiano de XXXXXX , registro multidimensional de Wayuu, blablabla. 
 
-# Temáticas
+# Temáticas
 
-Día 1. Derecho al agua
-Día 2. Derecho a la alimentación
-Día 3. Derecho a la salud
-Día 4. Derecho a la movilidad
-Día 5. Equidad de género
-Día 6. 
-Día 7. 
+Considerando el fallo de la Corte Consititucional, hemos definido los siguientes temas: 
+
+| Día | Tema         | Posibles variables |
+|-----|--------------|--------------------|
+| 1   | Agua         |                    |
+| 2   | Alimentación |                    |
+| 3   | Salud        |                    |
+| 4   | Movilidad    |                    |
+| 5   | Género       |                    |
+| 6   |              |                    |
+| 7   |              |                    |
+
+
+# Datos
