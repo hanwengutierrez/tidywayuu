@@ -27,4 +27,4 @@ Las unidades temáticas del CNPV se pueden llevar a niveles de
 
 # Datos
 
-Los datos son extraídos de [Censo Nacional de Población y Vivienda 2018](https://www.dane.gov.co/index.php/estadisticas-por-tema/demografia-y-poblacion/censo-nacional-de-poblacion-y-vivenda-2018) descarga de la página de microdatos de [Departamento Administrativo Nacional de Estadística - DANE](https://microdatos.dane.gov.co/index.php/catalog/643/get-microdata)  y consiste en XXXXX registros (hogares) con XXX variables. 
+Los datos son extraídos de [Censo Nacional de Población y Vivienda 2018](https://www.dane.gov.co/index.php/estadisticas-por-tema/demografia-y-poblacion/censo-nacional-de-poblacion-y-vivenda-2018) descarga de la página de microdatos de [Departamento Administrativo Nacional de Estadística - DANE](https://microdatos.dane.gov.co/index.php/catalog/643/get-microdata)  y consiste en 336 mil registros (habitantes del pueblo Wayuu).
