@@ -12,15 +12,15 @@ Este challenge busca que la comunidad colombiana se conscientice más de las sit
 
 Considerando el fallo de la Corte Consititucional, hemos definido los siguientes temas: 
 
-| Día | Tema           | Posibles variables |
-|-----|----------------|--------------------|
-| 1   | Agua           |                    |
-| 2   | Alimentación   |                    |
-| 3   | Salud          |                    |
-| 4   | Movilidad      |                    |
-| 5   | Sociodemografía|                    |
-| 6   | Calidad de vida|                    |
-| 7   | Otros SSPP     |                    |
+| Día | Tema           | 
+|-----|----------------|
+| 1   | Agua           |
+| 2   | Alimentación   |
+| 3   | Salud          |
+| 4   | Movilidad      |
+| 5   | Sociodemografía|
+| 6   | Calidad de vida|
+| 7   | Otros SSPP     |
 
 
 Las unidades temáticas del CNPV se pueden llevar a niveles de 
